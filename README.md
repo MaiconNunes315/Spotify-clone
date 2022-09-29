@@ -16,9 +16,9 @@ npm install
 
 ### Crie uma variável de ambiente 
   
-  > Crie uma variavél de ambiente com o nome env.local
-  > Faça seu login e crie seu projeto em https://developer.spotify.com/dashboard/applications para descobrir seu ID do cliente e seu ID secreto
-  > Coloque na sua variável como abaixo 
+  ## Crie uma variavél de ambiente com o nome env.local
+  ## Faça seu login e crie seu projeto em https://developer.spotify.com/dashboard/applications para descobrir seu ID do cliente e seu ID secreto
+  ## Coloque na sua variável como abaixo 
     >NEXTAUTH_URL=http://localhost:3000
     >NEXT_PUBLIC_CLIENT_SECRET=seu Id do cliente
     >NEXT_PUBLIC_CLIENT_ID= seu id secreto
